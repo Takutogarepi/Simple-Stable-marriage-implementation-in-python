@@ -1,4 +1,3 @@
-import collections
 Preffered_rankings_for_boys = {
     'John'  : ['Jane','Trish','Rose','Lucy','Lizzy','Lindi'],
     'James' : ['Jane','Lindi','Lizzy','Lucy','Trish','Rose'],
