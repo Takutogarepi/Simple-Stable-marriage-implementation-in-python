@@ -1,14 +1,14 @@
 Preffered_rankings_for_boys = {
-    'John'  : ['Jane','Trish','Rose','Lucy','Lizzy','Lindi'],
-    'James' : ['Jane','Lindi','Lizzy','Lucy','Trish','Rose'],
-    'Bruce' : ['Rose','Lucy','Jane','Lizzy','Lindi','Trish'],
-    'Tom'   : ['Lucy','Trish','Rose','Jane','Lindi','Lizzy'],
-    'Tim'   : ['Trish','Lindi','Lizzy','Jane','Lucy','Rose'],
-    'Frank' : ['Lizzy','Lucy','Lindi','Rose','Trish','Jane']
+    'John'  : ['Janet','Trish','Rose','Lucy','Lizzy','Lindi'],
+    'James' : ['Janet','Lindi','Lizzy','Lucy','Trish','Rose'],
+    'Bruce' : ['Rose','Lucy','Janet','Lizzy','Lindi','Trish'],
+    'Tom'   : ['Lucy','Trish','Rose','Janet','Lindi','Lizzy'],
+    'Tim'   : ['Trish','Lindi','Lizzy','Janet','Lucy','Rose'],
+    'Frank' : ['Lizzy','Lucy','Lindi','Rose','Trish','Janet']
     }
 
 Preffered_rankings_for_girls ={
-    'Jane'  : ['Frank','Tim','Tom','John','Bruce','James'],
+    'Janet'  : ['Frank','Tim','Tom','John','Bruce','James'],
     'Rose'  : ['Bruce','James','Tim','Frank','Tom','John'],
     'Lindi' : ['John','Frank','Tom','Bruce','Tim','James'],
     'Lucy'  : ['Tom','James','Tim','Frank','John','Bruce'],
