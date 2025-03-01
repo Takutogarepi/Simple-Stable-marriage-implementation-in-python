@@ -4,7 +4,8 @@ Preffered_rankings_for_boys = {
     'Bruce' : ['Rose','Lucy','Janet','Lizzy','Lindi','Trish'],
     'Tom'   : ['Lucy','Trish','Rose','Janet','Lindi','Lizzy'],
     'Tim'   : ['Trish','Lindi','Lizzy','Janet','Lucy','Rose'],
-    'Frank' : ['Lizzy','Lucy','Lindi','Rose','Trish','Janet']
+    'Frank' : ['Lizzy','Lucy','Lindi','Rose','Trish','Janet'],
+    'Peter' : ['Janet','Rose','Lizzy','Lindi','Lucy','Trish']
     }
 
 Preffered_rankings_for_girls ={
@@ -13,7 +14,8 @@ Preffered_rankings_for_girls ={
     'Lindi' : ['John','Frank','Tom','Bruce','Tim','James'],
     'Lucy'  : ['Tom','James','Tim','Frank','John','Bruce'],
     'Lizzy' : ['Bruce','Tom','James','John','Tim','Frank'],
-    'Trish' : ['Tom','Frank','James','John','Tim','Bruce']
+    'Trish' : ['Tom','Frank','James','John','Tim','Bruce'],
+    'Prim' : ['John','Bruce','James','Tim','Frank','Tom']
 }
 
 #a list of the potential engagements
